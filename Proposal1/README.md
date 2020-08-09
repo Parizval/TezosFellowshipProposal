@@ -8,7 +8,7 @@
 
 ## ![](https://github.com/Parizval/DeveloperDock/blob/master/srs/target.png) Objective of the Proposal  
 
-The purpose of the project is to create a decentralized online F&O platform on tezos blockchain. 
+The purpose of the project is to create a decentralized online **Options** platform on tezos blockchain. 
 
 ## ![](https://github.com/Parizval/DeveloperDock/blob/master/srs/policy.png) Description  of  the  Proposal
 
@@ -41,7 +41,17 @@ This leads to serveral inefficies and drawbacks in the current platforms such as
 
 - Smart contract functions would be responsible for calculating the premium decay which makes the process of trading much more transparent. 
 
-    
+## Timeline 
+
+| Week  | Target |
+| ------------- | ------------- |
+| Week 1   | Work on FA 1.2 and Options Contract ( Call and Put Options)  |
+| Week 2  | Testing and Integration with Thanos Wallet, quipuswap and work on the oracles to feed the data |
+| Week 3  | Developing the front end and user interface of the application |
+| Week 4  | Integration of smart contracts with the front ends and testing of the platform. |
+| Week 5  | Improving the functionality and fixing bugs |
+| Week 6  | Deployment and monitoring of the applicaiton |
+
 ## Technology Stack 
 
  - React - Front End
