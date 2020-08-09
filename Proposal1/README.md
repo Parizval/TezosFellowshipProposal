@@ -41,7 +41,7 @@ This leads to serveral inefficies and drawbacks in the current platforms such as
 
 - Smart contract functions would be responsible for calculating the premium decay which makes the process of trading much more transparent. 
 
-## Timeline 
+## ![](https://github.com/Parizval/DeveloperDock/blob/master/srs/timeline.png) Timeline 
 
 | Week  | Target |
 | ------------- | ------------- |
